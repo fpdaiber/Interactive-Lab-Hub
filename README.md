@@ -17,4 +17,5 @@ Completed Labs for Fabio Daiber Student
 1. Set-up completed
 2. [Fabio's PreLab 2](//github.com/fpdaiber/IDD_PreLab2/)
 3. [Fabio's PreLab 3](//github.com/fpdaiber/IDD_PreLab3/)
+4. [Fabio's PreLab 7](//github.com/fpdaiber/IDD_PreLab7/)
 
